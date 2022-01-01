@@ -7,6 +7,6 @@ The objective of this project is to identify credit card customers that are most
 
 
 ## Running Files
-2.Inside the /home/workspace directory run the command `python churn_library.py`
+2.Inside the /home/workspace directory run the command `python main.py`
 
 3.In order to test the code, inside the /home/workspace directory run the command `pytest churn_script_logging_and_tests.py`
